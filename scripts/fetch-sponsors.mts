@@ -35,7 +35,7 @@ const tierSponsors: Record<Tier, Sponsor[]> = {
     {
       createdAt: '2022-06-24',
       name: 'Github',
-      image: 'https://github.com/github.png',
+      image: 'https://avatars.githubusercontent.com/github',
       url: 'https://github.com/',
       type: 'ORGANIZATION',
       monthlyDonation: 0,
@@ -46,7 +46,7 @@ const tierSponsors: Record<Tier, Sponsor[]> = {
     {
       createdAt: '2018-05-02',
       name: 'AirBnB',
-      image: 'https://github.com/airbnb.png',
+      image: 'https://avatars.githubusercontent.com/airbnb',
       url: 'https://www.airbnb.com/',
       type: 'ORGANIZATION',
       monthlyDonation: 0,
@@ -68,7 +68,7 @@ const tierSponsors: Record<Tier, Sponsor[]> = {
     {
       createdAt: '2026-01-28',
       name: 'context.dev',
-      image: 'https://github.com/context-dot-dev.png',
+      image: 'https://avatars.githubusercontent.com/context-dot-dev',
       url: 'https://context.dev/',
       type: 'ORGANIZATION',
       monthlyDonation: 0,
